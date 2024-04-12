@@ -1,0 +1,7 @@
+#EXITM3U
+
+EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/tcSVkXd.jpg",K+CINE HD 
+#EXTVLCOPT:http-user-agent=Dalvik/24.04.1.9.9.5 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6Jma5OgmMKZnaKZnKadmJtgYWBq&time=1691748115&mykplus&id=https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/13213d4023fae7c49cbbfe69d8b6e6ad/1713005120735/kplus_3/manifest/kplus_cine/master.mpd?c=h&token=MDA2ZjQ5NmQtOWY5ZC03M2E0LTQ3OTQtY2JiMjk0OWI2ZGZifG1vYmlsZV93ZWJ8MTUzN2I5ZjY4OGQxYzg0YzljZWVmMmI3ZjM0YThiYjN8NTFhY2NiMmMtMWRlMC00YTVjLTlkOGEtYjEzOWEyMmI5MDEyfGxpdmV0dnw2QjhDRTN8ZTIzNjIyMzc3YWM5OGI5MTFiZTJhNzZmMjhmZDI5ZTM=
